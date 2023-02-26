@@ -34,6 +34,10 @@ How it Works?
 
 Technology Used :- Python, Mediapipe, Opencv-python, Sklearn, Tensorflow==2.4.1, Keras, Tensorflow-gpu==2.4.1, Matplotlib, Pyttsx3
 
+OTHER USES OF THE ABOVE CODE :- 
+It can be used to develop a program which can help in complex visual gesture navigation. For eg:- you are lying on ur bed and u want to turn on the TV, you can just wave in front of the camera attached on the tv and it will turn on , or you can also make "N" in air by moving ur index finger and it will open Netflix, etc 
+
+
 
 
 
