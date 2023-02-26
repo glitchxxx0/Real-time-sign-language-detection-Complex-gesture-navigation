@@ -25,16 +25,7 @@ How it Works?
 2. Then it matches the keypoints with the previously collected data to recognize the sign.
 3. Displays the word as a text or convert it to voice or vice-versa.
 
-Technology Used :- 
-➢ Python
-➢ Mediapipe
-➢ Opencv-python
-➢ Sklearn
-➢ Tensorflow==2.4.1
-➢ Keras
-➢ Tensorflow-gpu==2.4.1
-➢ Matplotlib 
-➢ Pyttsx3
+Technology Used :- Python, Mediapipe, Opencv-python, Sklearn, Tensorflow==2.4.1, Keras, Tensorflow-gpu==2.4.1, Matplotlib, Pyttsx3
 
 
 
